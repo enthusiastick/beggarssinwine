@@ -36,7 +36,7 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
-![Poisoner](Each night, choose a player: they are poisoned tonight and tomorrow day.) | **Poisoner** | Each night, choose a player: they are poisoned tonight and tomorrow day.
+![Poisoner](https://wiki.bloodontheclocktower.com/images/b/b1/Icon_poisoner.png) | **Poisoner** | Each night, choose a player: they are poisoned tonight and tomorrow day.
 ![Xaan](https://wiki.bloodontheclocktower.com/images/0/0c/Icon_xaan.png) | **Xaan** | On night X, all Townsfolk are poisoned until dusk. [X Outsiders]
 ![Summoner](https://wiki.bloodontheclocktower.com/images/1/1a/Icon_summoner.png) | **Summoner** | ou get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]
 ![Mastermind](https://wiki.bloodontheclocktower.com/images/d/d5/Icon_mastermind.png) | **Mastermind** | If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.
